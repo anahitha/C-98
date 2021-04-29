@@ -1,0 +1,3 @@
+This is another file.
+It is made to swap with sample.
+Poor file.
